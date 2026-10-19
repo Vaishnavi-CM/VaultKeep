@@ -150,3 +150,17 @@ the SQLite database, so secrets and saved passwords never get committed.
 
 **Backend**: Node.js, Express, node:sqlite, bcryptjs, jsonwebtoken, helmet, express-rate-limit
 **Frontend**: React, Vite, Tailwind CSS, Framer Motion, GSAP + ScrollTrigger, React Router, Axios, react-icons
+
+## 📸 Screenshots
+
+### Home Page
+![VaultKeep Home Page](screenshots/home.png)
+
+### Learn — Flashcards and Study Assistant
+![VaultKeep Learn Page](screenshots/learn.png)
+
+### Login Page
+![VaultKeep Login Page](screenshots/login.png)
+
+### My Vault
+![VaultKeep My Vault](screenshots/my-vault.png)
